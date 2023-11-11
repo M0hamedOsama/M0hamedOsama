@@ -7,8 +7,5 @@ Welcome to my GitHub profile! I am passionate about artificial intelligence and 
 - Machine Learning Algorithms
 - Deep Learning with TensorFlow
 - Computer Vision
-  
-### 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-osama-21462428a)https://www.linkedin.com/in/mohamed-osama-21462428a)
-- 
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-osama-21462428a)
