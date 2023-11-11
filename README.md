@@ -8,4 +8,3 @@ Welcome to my GitHub profile! I am passionate about artificial intelligence and 
 - Deep Learning with TensorFlow
 - Computer Vision
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-osama-21462428a)
