@@ -1,7 +1,9 @@
--  Hi, I’m M0hamedOsama
--  I’m currently learning ML & Cv
+# Hi there, I'm [Mohamed Osama] 👋
+## AI STUDENT | Machine Learning & CV 
 
-<!---
-M0hamedOsama/M0hamedOsama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I am passionate about artificial intelligence and constantly learning and exploring new concepts in the field.
+
+### 🌱 I’m currently learning
+- Machine Learning Algorithms
+- Deep Learning with TensorFlow
+- Computer Vision
