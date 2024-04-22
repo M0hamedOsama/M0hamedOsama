@@ -5,7 +5,7 @@
 ********<h3 align="center">An AI student with a strong passion for Machine Learning and Computer Vision.</h3>********
 ****🌱 I’m currently learning Computer Vision and Deep Learning****
 
-**📫 How to reach me mo419274@gmail.com  //  https://www.linkedin.com/in/mohamed-osama-21462428a/  **
+**📫 How to reach me mo419274@gmail.com   **
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
