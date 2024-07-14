@@ -2,8 +2,8 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MohamedOsama&label=Profile%20Views&color=12&icon=1&pretty=false" />
 </a><h1 align="center">Hi 👋, I'm Mohamed Osama</h1>
-********<h3 align="center">An AI student with a strong passion for Machine Learning and Computer Vision.</h3>********
-****🌱 I’m currently learning Computer Vision and Deep Learning****
+********<h3 align="center">An AI student with a strong passion for Data analysis and Machine Learning .</h3>********
+****🌱 I’m currently learning Data analysis 📊****
 
 **📫 How to reach me mo419274@gmail.com   **
 </div><h3 align="left">Languages and Tools:</h3>
