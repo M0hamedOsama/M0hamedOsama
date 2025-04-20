@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
   
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=M0hamedOsama&label=Profile%20Views&color=12&icon=1&pretty=false" />
-  </a>
+<h1 align="center">Welcome to My AI World 🌍</h1>
+<h3 align="center">Mohamed Osama | Turning Data into Decisions</h3>
+
 
   <h1 align="center">Hi 👋, I'm Mohamed Osama</h1>
   <h3 align="center">AI Engineer | Data Analyst | ML Enthusiast</h3>
