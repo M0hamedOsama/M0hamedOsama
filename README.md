@@ -89,6 +89,8 @@ I’m always looking to use tech to create real-world impact.
 - 📱 Phone: +20 102 478 2483  
 - 💼 LinkedIn: [mohamedosama](https://www.linkedin.com/in/mohamedosama)  
 - 💻 GitHub: [M0hamedOsama](https://github.com/M0hamedOsama)
+- 💻 Kaggle: [mohamedelnahry](https://github.com/mohamedelnahry)
+
 
 ---
 
