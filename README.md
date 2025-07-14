@@ -6,8 +6,7 @@
 
   <h3 align="center"> AI Student | Data Scientist | AI & Quantum AI Enthusiast  | Data Analyst </h3>
 
-  ## 🚀 Technical Expertise
-
+ ## 🚀 Technical Expertise
 ### 🤖 AI/ML & Computer Vision:
 `PyTorch` `TensorFlow` `OpenCV` `dlib` `CNN/RNN/LSTM` `CUDA` `OCR (EasyOCR, PyTesseract)`
 
