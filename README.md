@@ -4,14 +4,20 @@
 <h1 align="center">Welcome to My AI World 🌍</h1>
 <h3 align="center">Mohamed Osama | Turning Data and AI </h3>
 
-  <h3 align="center">AI Engineer | Data Analyst | ML Enthusiast</h3>
+  <h3 align="center"> AI Student | Data Scientist | AI & Quantum AI Enthusiast  | Data Analyst </h3>
 
-  <p align="center">
-    🎓 3rd-year AI student at Kafr El-Sheikh University <br>
-    📊 Passionate about Data Analysis & Big Data <br>
-    🤖 Skilled in Machine Learning, Computer Vision & Graphic Design <br>
-    💡 Constant learner, driven by curiosity and real-world problem solving <br>
-  </p>
+  ## 🚀 Technical Expertise
+
+### 🤖 AI/ML & Computer Vision:
+`PyTorch` `TensorFlow` `OpenCV` `dlib` `CNN/RNN/LSTM` `CUDA` `OCR (EasyOCR, PyTesseract)`
+
+### 📊 Data Engineering:
+`Python` `SQL` `Power BI` `Tableau` `Big Data` `Apache Spark` `Web Scraping` 
+
+### 💻 Software Development:
+`C++` `Java` `OOP`
+
+
 
   <p align="center">
     📫 Reach me at: <strong>mo419274@gmail.com</strong> <br>
@@ -68,7 +74,7 @@ I’m always looking to use tech to create real-world impact.
 
 ## 🎓 Education & Training
 
-- **B.Sc. in Artificial Intelligence** – *Kafr El-Sheikh University* (2022–Present)
+- **B.Sc. in Artificial Intelligence** – *Kafr El-Sheikh University* (2022–2026)
 - **Data Analysis Track** – National Telecommunication Institute (2024)
 - **AI Training** – Zewail City – Impact Platform (2023)
 - **AI Augmented Professional Skills** – ALX (2024)
