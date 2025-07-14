@@ -1,28 +1,28 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
   
-<h1 align="center">Welcome to My AI World 🌍</h1>
-<h3 align="center">Mohamed Osama | Turning Data and AI </h3>
+  <h1>Welcome to My AI World 🌍</h1>
+  <h3>Mohamed Osama | Turning Data and AI</h3>
+  <h3>AI Student | Data Scientist | AI & Quantum AI Enthusiast | Data Analyst</h3>
+</div>
 
-  <h3 align="center"> AI Student | Data Scientist | AI & Quantum AI Enthusiast  | Data Analyst </h3>
+---
 
- ## 🚀 Technical Expertise
+## 🚀 Technical Expertise
+
 ### 🤖 AI/ML & Computer Vision:
 `PyTorch` `TensorFlow` `OpenCV` `dlib` `CNN/RNN/LSTM` `CUDA` `OCR (EasyOCR, PyTesseract)`
 
 ### 📊 Data Engineering:
-`Python` `SQL` `Power BI` `Tableau` `Big Data` `Apache Spark` `Web Scraping` 
+`Python` `SQL` `Power BI` `Tableau` `Big Data` `Apache Spark` `Web Scraping`
 
 ### 💻 Software Development:
 `C++` `Java` `OOP`
 
+---
 
-
-  <p align="center">
-    📫 Reach me at: <strong>mo419274@gmail.com</strong> <br>
-    📍 Kafr El-Sheikh, Egypt
-  </p>
-</div>
+📫 **Reach me at:** mo419274@gmail.com  
+📍 **Location:** Kafr El-Sheikh, Egypt
 
 ---
 
