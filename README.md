@@ -51,25 +51,6 @@ I’m always looking to use tech to create real-world impact.
 - Developed a system to detect letters/numbers on Egyptian plates.
 - Applied OpenCV and ML techniques on a local dataset.
 
----
-
-## 🛠️ Skills
-
-### Languages & Frameworks
-- Python | C / C++ | SQL
-- OOP (Python) | Git | Arduino
-
-### Data Analysis & Visualization
-- Excel | Power BI | Tableau | Pandas | Seaborn | Plotly
-
-### Machine Learning & AI
-- Scikit-learn | TensorFlow | PyTorch
-
-### Others
-- Web Scraping | Problem Solving | Graphic Design
-
----
-
 ## 🎓 Education & Training
 
 - **B.Sc. in Artificial Intelligence** – *Kafr El-Sheikh University* (2022–2026)
