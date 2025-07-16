@@ -50,6 +50,8 @@ I’m always looking to use tech to create real-world impact.
 ### 🚘 License Plate Recognition (Computer Vision)
 - Developed a system to detect letters/numbers on Egyptian plates.
 - Applied OpenCV and ML techniques on a local dataset.
+  
+---
 
 ## 🎓 Education & Training
 
