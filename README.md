@@ -20,7 +20,7 @@
 
 ---
 
-📫 **Reach me at:** mo419274@gmail.com  
+📫 **Reach me at:** mohamedosamaelnahry@gmail.com  
 📍 **Location:** Kafr El-Sheikh, Egypt
 
 ---
@@ -72,7 +72,7 @@ I’m always looking to use tech to create real-world impact.
 
 ## 📫 Contact
 
-- 📧 Email: mo419274@gmail.com  
+- 📧 Email: mohamedosamaelnahry@gmail.com  
 - 📱 Phone: +20 102 478 2483  
 - 💼 LinkedIn: [mohamedosama](https://www.linkedin.com/in/mohamedosama)  
 - 💻 GitHub: [M0hamedOsama](https://github.com/M0hamedOsama)
