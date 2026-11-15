@@ -105,5 +105,5 @@ AI Graduate from the Faculty of Artificial Intelligence, Kafr El-Sheikh Universi
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,100:c471ed&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlign=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,100:c471ed&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontAlign=40&fontColor=ffffff" />
 </div>
