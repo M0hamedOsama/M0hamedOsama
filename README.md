@@ -43,7 +43,7 @@ AI Graduate from the Faculty of Artificial Intelligence, Kafr El-Sheikh Universi
 - Deployed an interactive **Streamlit** web application for real-time image upload and instant inference, exporting models to **ONNX** and **TensorFlow Lite** for lightweight GIS integration.
 
 ### Mobile Market Analytics for Noon
-*NTI Data Analysis Track*
+*Final Project — NTI Data Analysis Track*
 - Automated data collection by web scraping mobile product listings from Noon using **Python**.
 - Cleaned, structured in **MySQL**, analyzed, and built interactive dashboards using **Excel, Power BI, and Tableau** to uncover pricing strategies, 4G/5G adoption, and top brand trends.
 
